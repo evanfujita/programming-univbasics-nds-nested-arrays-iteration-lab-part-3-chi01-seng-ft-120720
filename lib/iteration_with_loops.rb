@@ -1,3 +1,4 @@
 def join_nested_strings(src)
-  src.flatten.join
+  binding.pry
+  src.flatten
 end
