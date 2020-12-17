@@ -1,3 +1,3 @@
 def join_nested_strings(src)
-binding.pry
+  src.flatten.to_s
 end
